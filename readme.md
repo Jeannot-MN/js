@@ -1,1 +1,1 @@
-# const create an immutable binding meaning: the variable can only point to the same object in memory, ie the reference cannot change, but the object store can change(object are not primitives) 
+const create an immutable binding meaning: the variable can only point to the same object in memory, ie the reference cannot change, but the object store can change(object are not primitives) S
