@@ -1,6 +1,7 @@
 const arr = ['a', 'b', 'c'];
 
-//This usually used with object to iterate through keys, in this case indeces
+//This usually used with object to iterate through keys/properties, in this case indeces
+//https://stackoverflow.com/questions/52395924/how-can-javascript-arrays-have-non-numeric-keys
 for (let el in arr) {
     console.log(el);
 }
